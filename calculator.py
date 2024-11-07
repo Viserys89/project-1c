@@ -4,3 +4,5 @@ perjumlahan = a+b
 print(perjumlahan)
 perkalian = a*b
 print(perkalian)
+pembagian = a/b
+print(pembagian)
